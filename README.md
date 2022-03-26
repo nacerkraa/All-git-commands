@@ -1,3 +1,5 @@
 - this my to do list
 - learn php from coursere
+- learn djangp
+- 
 - 
