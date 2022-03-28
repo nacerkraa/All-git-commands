@@ -2,6 +2,6 @@
 ----------------------------------------------
 - learn Odoo framwork
 - learn php from coursera
-- learn djangp
+- learn django
 - learn python
 - tp mssi
