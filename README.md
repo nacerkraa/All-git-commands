@@ -1,5 +1,5 @@
-## git command
-----------------------------------------------
+# git command
+
 *  git init
 *  git add .
 * git commit -m "msg"
