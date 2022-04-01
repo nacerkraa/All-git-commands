@@ -1,8 +1,8 @@
-* this my to do list *
+## git command
 ----------------------------------------------
-- learn Odoo framwork
-- learn php from coursera
-- learn django
-- learn python
-- tp mssi
-- tp tml
+> git init
+> git add .
+> git commit -m "msg"
+> git remote add origin https://github.com/user/repo.git
+> git push -u origin master
+> git log
