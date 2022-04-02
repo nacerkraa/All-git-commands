@@ -17,4 +17,5 @@
 * git remote remove origin
 ## ..show all commits
 * git log
-* git checkout 1#kfkskekkdkdkdkd
+## return to previous version
+git checkout 1#kfkskekkdkdkdkd
