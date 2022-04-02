@@ -1,6 +1,6 @@
 # All git commands
 ## ..show the current status
-git status
+* git status
 ## ..create a new repository on the command line
 * echo "a new message" >> README.md
 * git init
