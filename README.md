@@ -18,4 +18,4 @@
 ## ..show all commits
 * git log
 ## return to previous version
-git checkout 1#kfkskekkdkdkdkd
+* git checkout 1#kfkskekkdkdkdkd
