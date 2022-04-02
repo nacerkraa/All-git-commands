@@ -14,6 +14,6 @@
 * git push -u origin main
 ## .. remove origin repository
 * git remote remove origin
-## Show all commits
+## ..show all commits
 * git log
 * git checkout 1#kfkskekkdkdkdkd
