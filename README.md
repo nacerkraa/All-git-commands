@@ -16,4 +16,4 @@
 * git remote remove origin
 ## Show all commits
 * git log
-* git checkout
+* git checkout 1#kfkskekkdkdkdkd
