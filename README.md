@@ -8,6 +8,7 @@
 * git commit -m "first commit"
 * git branch -M main
 * git remote add origin https://github.com/user/repo.git
+* git pull origin master    # pull changes from the origin remote, master branch and merge them into my_branch
 * git push -u origin main
 ## ..push an existing repository from the command line
 * git remote add origin https://github.com/user/repo.git
