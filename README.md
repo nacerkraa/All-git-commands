@@ -13,6 +13,8 @@
 * git remote add origin git@github.com:user/repo.git
 * git branch -M main
 * git push -u origin main
+## ..clone an repository
+* git clone git@github.com:user/repo.git 
 ## .. remove origin repository
 * git remote remove origin
 ## ..show all commits
