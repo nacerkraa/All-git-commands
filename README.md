@@ -4,6 +4,8 @@
 ## ..create a new repository on the command line
 * echo "a new message" >> README.md
 * git init
+## remove git
+* rm -rf .git
 * git add README.md
 * git commit -m "first commit"
 * git branch -M main
