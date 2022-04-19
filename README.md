@@ -6,6 +6,7 @@
 * git init
 ## remove git
 * rm -rf .git
+## add git
 * git add README.md
 * git commit -m "first commit"
 * git branch -M main
