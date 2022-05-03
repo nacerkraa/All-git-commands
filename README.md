@@ -26,4 +26,5 @@
 ## return to previous version
 * git checkout 1#kfkskekkdkdkdkd
 ## merge a repo
-* git pull origin master    # pull changes from the origin remote, master branch and merge them into my_branch
+* git pull origin master    # pull changes from the origin remote, master branch and merge them into my_boranch
+* git branch 
