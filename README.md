@@ -37,11 +37,11 @@
 * git merge branch_name
 * git push origin master
 * 
- ## ..Delete branch
- //Delete branch locally
+ ## ..delete branch
+ // delete branch locally
 * git branch -d localBranchName
 
-//delete local branch that is unmerged
+// delete local branch that is unmerged
 * git branch -D localBranchName
 
 // delete branch remotely
