@@ -25,6 +25,16 @@
 * git log
 ## return to previous version
 * git checkout 1#kfkskekkdkdkdkd
-## merge a repo
-* git pull origin master    # pull changes from the origin remote, master branch and merge them into my_boranch
-* git branch 
+## merge a branch
+* git checkout master
+* git pull origin master
+* git merge branch_name
+* git push origin master
+// delete branch locally
+git branch -d localBranchName
+
+//delete local branch that is unmerged
+git branch -D localBranchName
+
+// delete branch remotely
+git push origin --delete remoteBranchName
