@@ -30,11 +30,11 @@
 * git pull origin master
 * git merge branch_name
 * git push origin master
-// delete branch locally
-git branch -d localBranchName
+ ##..Delete branch locally
+* git branch -d localBranchName
 
-//delete local branch that is unmerged
-git branch -D localBranchName
+##..Delete local branch that is unmerged
+* git branch -D localBranchName
 
-// delete branch remotely
-git push origin --delete remoteBranchName
+##.. delete branch remotely
+* git push origin --delete remoteBranchName
