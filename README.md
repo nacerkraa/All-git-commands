@@ -39,7 +39,7 @@
  ## ..Delete branch locally
 * git branch -d localBranchName
 
-##..Delete local branch that is unmerged
+##..delete local branch that is unmerged
 * git branch -D localBranchName
 
 ##.. delete branch remotely
