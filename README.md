@@ -25,12 +25,12 @@
 * git log
 ## return to previous version
 * git checkout 1#kfkskekkdkdkdkd
-## merge a branch
+## ..merge a branch
 * git checkout master
 * git pull origin master
 * git merge branch_name
 * git push origin master
- ##..Delete branch locally
+ ## ..Delete branch locally
 * git branch -d localBranchName
 
 ##..Delete local branch that is unmerged
