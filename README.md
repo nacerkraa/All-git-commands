@@ -1,14 +1,11 @@
 # All git commands
 ## ..show the current status
 * git status
-* 
 ## ..create a new repository on the command line
 * echo "a new message" >> README.md
 * git init
-* 
 ## remove git
 * rm -rf .git
-* 
 ## add git
 * git add README.md
 * git reset. 
@@ -16,12 +13,10 @@
 * git branch -M main
 * git remote add origin git@github.com:user/repo.git
 * git push -u origin main
-* 
 ## ..push an existing repository from the command line
 * git remote add origin git@github.com:user/repo.git
 * git branch -M main
 * git push -u origin main
-* 
 ## ..clone an repository
 * git clone git@github.com:user/repo.git 
 * 
